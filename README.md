@@ -1,2 +1,2 @@
-# A-Feature-Processing-Strategy-for-one-class-classification
+# A-Feature-Processing-Strategy-for-One-Class-Classification
 A feature processing strategy for one-class problems. This strategy uses a reconstruction model based on the target class to eliminate intra-class variations and retain inter-class differences, thereby reducing the overlap between the distribution of the target class and the anomaly class. The algorithm can consistently improve the performance of one-class classifiers in spectral anomaly detection.
